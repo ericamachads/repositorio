@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+#app {
+    background-color: aliceblue;
+}
+
+.line {
+    width: 100px;
+    height: 10px;
+    background-color: #66CDAA;
+    margin: 10px auto;
+}
+
+#jogo {
+    background-color: honeydew;
+}
+
+#diag {
+    background-color: ivory;
+}
+
+iframe {
+    max-width: 100%;
+}
